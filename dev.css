@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(65, 15, 15);
+    color: antiquewhite;
+    text-align: center;
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.wrapper{
+    margin: 200px;
+}
+#subt{
+    background-color: rgb(233, 232, 139);
+}
+input{
+    font-size: 20px;
+    border-radius: 6px;
+}
